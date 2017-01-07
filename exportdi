@@ -1,0 +1,2 @@
+export MPICC=/home/surana/mpich-install 
+export export PATH=/home/surana/work/dmtcp/dmtcp/bin:$PATH
